@@ -1,2 +1,7 @@
 This is file1 and edited from GitHub brower side
 Update from user2 machine
+<<<<<<< HEAD
+Update to main branch
+=======
+Update to test branch
+>>>>>>> test
